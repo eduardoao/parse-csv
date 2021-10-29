@@ -1,0 +1,15 @@
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\bin\Debug\netcoreapp3.1\ParseCSV.exe
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\bin\Debug\netcoreapp3.1\ParseCSV.deps.json
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\bin\Debug\netcoreapp3.1\ParseCSV.runtimeconfig.json
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\bin\Debug\netcoreapp3.1\ParseCSV.runtimeconfig.dev.json
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\bin\Debug\netcoreapp3.1\ParseCSV.dll
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\bin\Debug\netcoreapp3.1\ParseCSV.pdb
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\obj\Debug\netcoreapp3.1\ParseCSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\obj\Debug\netcoreapp3.1\ParseCSV.AssemblyInfoInputs.cache
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\obj\Debug\netcoreapp3.1\ParseCSV.AssemblyInfo.cs
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\obj\Debug\netcoreapp3.1\ParseCSV.csproj.CoreCompileInputs.cache
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\obj\Debug\netcoreapp3.1\ParseCSV.dll
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\obj\Debug\netcoreapp3.1\ParseCSV.pdb
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\obj\Debug\netcoreapp3.1\ParseCSV.genruntimeconfig.cache
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\bin\Debug\netcoreapp3.1\test_data.csv
+D:\CODE\TESTES_EMPRESAS\ParseCSV\ParseCSV\obj\Debug\netcoreapp3.1\ParseCSV.csproj.AssemblyReference.cache
